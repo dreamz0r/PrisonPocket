@@ -1,0 +1,10 @@
+name = "Prison Pocket";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "Prison Pocket";
+overview = "Adds a configurable Prison Pocket player inventory slot.";
+action = "";
+author = "Griffin";
+version = "1.0";
