@@ -2,7 +2,7 @@
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3734345311
 
-Adds a final player equipment slot named `Prison Pocket`.
+Adds a player equipment slot named `Prison Pocket`.
 
 By default, only `Zucchini` can be placed in the slot.
 
